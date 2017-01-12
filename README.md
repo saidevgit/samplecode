@@ -1,2 +1,2 @@
 # samplecode
-sample codes repo
+Repo to place sample codes.
